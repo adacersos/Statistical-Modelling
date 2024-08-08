@@ -40,5 +40,5 @@ Feel free to explore the notebooks and visualizations to gain insights into the 
 
 ## Getting Started 
 
-1. downlaod this file London Weather Forecasting.ipynb
+1. downlaod this file [London Weather Forecasting.ipynb](https://github.com/adacersos/Statistical-Modelling/blob/main/London%20Weather%20Forecasting.ipynb)
 2. Raw data is here 
